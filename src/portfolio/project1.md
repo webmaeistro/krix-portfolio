@@ -1,7 +1,7 @@
 ---
-slug: "/michelangelo-piano-institute"
+slug: "/smaaviltguiden"
 date: "2018-10-20"
-title: "Michelangelo Piano Institute"
+title: "Småviltguiden"
 cover: "../images/cover1.jpg"
 ---
 

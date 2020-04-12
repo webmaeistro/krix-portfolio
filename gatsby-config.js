@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Kristjana Xharja`,
-    description: `Architect Visualizer from Florence (Italy)`,
-    author: `eneaxharja.com`,
+    title: `Ørn Forlag`,
+    description: `Website for ornforlag buildt on gatsbyjs`,
+    author: `@webmaeistro`,
   },
   plugins: [
     // custom metadata for each page
@@ -48,8 +48,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Kristjana Xharja | Architect Visualizer`,
-        short_name: `Kri`,
+        name: `Ørn Forlag | Bøker om Norsk kultur og natur`,
+        short_name: `ornforlag`,
         start_url: `/`,
         background_color: `#4F69C6`,
         theme_color: `#4F69C6`,

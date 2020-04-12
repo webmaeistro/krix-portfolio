@@ -46,15 +46,15 @@ const IndexPage = () => (
     <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
 
     <HeaderWrapper>
-      <Header>Hi, I'm Kristjana!</Header>
-      <SubHeader>Architect Visualizer</SubHeader>
-      <SocialLink href="https://www.facebook.com/kristjana.xharja" aria-label="facebook">
+      <Header>Ørn Forlag</Header>
+      <SubHeader>Lite bokforlag som utgir bøker om Norsk natur og kultur</SubHeader>
+      <SocialLink href="https://www.facebook.com/ornforlag" aria-label="facebook">
         <FontAwesomeIcon icon={['fab', 'facebook-f']} />
       </SocialLink>
-      <SocialLink href="https://www.instagram.com/kristjana.xharja" aria-label="instagram">
+      <SocialLink href="https://www.instagram.com/ornforlag" aria-label="instagram">
         <FontAwesomeIcon icon={['fab', 'instagram']} />
       </SocialLink>
-      <SocialLink href="mailto:kristjana.xharja@gmail.com" aria-label="mail">
+      <SocialLink href="mailto:bjorn@ornforlag.no" aria-label="mail">
         <FontAwesomeIcon icon="envelope" />
       </SocialLink>
     </HeaderWrapper>

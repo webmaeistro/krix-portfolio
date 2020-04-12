@@ -24,7 +24,7 @@ const FooterWrapper = styled.footer`
 
 const Footer = () => (
 	<FooterWrapper>
-		<small>© 2019 <b>Kristjana Xharja</b>, All Rights Reserved</small>
+		<small>© 2020 <b>Ørn Forlag</b>, All Rights Reserved | Website by:Martin Andersen</small>
 	</FooterWrapper>
 )
 

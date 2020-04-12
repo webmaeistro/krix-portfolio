@@ -12,7 +12,7 @@ const About = ({ data }) => (
   <Layout>
     <SEO title="About" />
 
-    <Title>About Me</Title>
+    <Title>Om Ørn Forlag</Title>
 
     <Container>
       <ImageWrapper>
@@ -59,7 +59,7 @@ export default About
 
 export const query = graphql`
   query profilePic {
-    profilePic: file(relativePath: { regex: "/profile-pic.png/" }) {
+    profilePic: file(relativePath: { regex: "/profile-pic.jpg/" }) {
       childImageSharp {
         fluid(maxWidth: 1240) {
           ...GatsbyImageSharpFluid

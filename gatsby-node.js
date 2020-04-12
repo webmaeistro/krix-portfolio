@@ -19,7 +19,7 @@ exports.createPages = ({ graphql, actions }) => {
     `).then(results => {
       results.data.allMarkdownRemark.edges.forEach(({node}) => {
         createPage({
-          path: `/portfolio${node.frontmatter.slug}`,
+          path: `/books${node.frontmatter.slug}`,
           component: path.resolve('./src/components/projectLayout.js'),
           context: {
             slug: node.frontmatter.slug,

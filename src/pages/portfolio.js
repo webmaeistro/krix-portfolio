@@ -10,7 +10,7 @@ import { Title, Container } from '../elements'
 const Portfolio = () => (
   <Layout>
     <SEO title="Portfolio" />
-    <Title>Portfolio</Title>
+    <Title>Books</Title>
     <Container>
       <ProjectsList />
     </Container>
