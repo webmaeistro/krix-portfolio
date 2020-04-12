@@ -20,7 +20,7 @@ export default class projectLayout extends Component {
             __html: markdownRemark.html
           }} />
 
-          <InternalLink to="/books">Tilbake til bøkene</InternalLink>
+          <InternalLink to="/portfolio">Tilbake til bøkene</InternalLink>
         </ProjectLayout>
 
         <Footer />
