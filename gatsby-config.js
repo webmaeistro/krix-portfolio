@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Ørn Forlag`,
+    title: `orn Forlag`,
     description: `Website for ornforlag buildt on gatsbyjs`,
     author: `@webmaeistro`,
   },
@@ -48,7 +48,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Ørn Forlag | Bøker om Norsk kultur og natur`,
+        name: `orn Forlag | Bøker om Norsk kultur og natur`,
         short_name: `ornforlag`,
         start_url: `/`,
         background_color: `#4F69C6`,

@@ -1,3 +1,3 @@
-## Kristjana Xharja Portfolio Website
+# ornforlag Website
 
 Clean and minimal portfolio website built with Gatsby.
